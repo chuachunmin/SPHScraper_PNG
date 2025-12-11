@@ -1,6 +1,6 @@
-# 📰 SPHScraper — Automated SPH Newspaper Downloader (NLB eResources)
+# 📰 SPHScraper_PNG — Automated SPH Newspaper Downloader (NLB eResources)
 
-SPHScraper is a fully automated **Playwright-based scraper** that logs into Singapore’s National Library Board (NLB) eResources portal, opens the SPH Newspaper viewer, downloads **every high-resolution page**, and compiles them into a single PDF.
+SPHScraper_PNG is a fully automated **Playwright-based scraper** that logs into Singapore’s National Library Board (NLB) eResources portal, opens the SPH Newspaper viewer, downloads **every high-resolution page**, and compiles them into a single PDF.
 
 ✔ Supports **The Straits Times, Business Times, Zaobao, Berita Harian**, etc.
 ✔ Automatically downloads **all pages** (no need to specify page count)
@@ -32,7 +32,7 @@ SPHScraper is a fully automated **Playwright-based scraper** that logs into Sing
 ## 📁 Project Structure
 
 ```
-SPHScraper/
+SPHScraper_PNG/
 │
 ├── main.py          # The main scraper script
 ├── venv/            # Your Python virtual environment
@@ -57,8 +57,8 @@ SPHScraper/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/chuachunmin/SPHScraper.git
-cd SPHScraper
+git clone https://github.com/chuachunmin/SPHScraper_PNG.git
+cd SPHScraper_PNG
 ```
 
 ### 2. Create a virtual environment
