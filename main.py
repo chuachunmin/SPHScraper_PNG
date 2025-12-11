@@ -369,7 +369,7 @@ def main():
 
         # Fresh incognito context, full native window
         context = browser.new_context(
-            no_viewport=True
+            viewport={"width": 1920, "height": 1080}
         )
 
         page = context.new_page()
