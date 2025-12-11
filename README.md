@@ -57,8 +57,8 @@ NewsScraper/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NewsScraper.git
-cd NewsScraper
+git clone https://github.com/chuachunmin/SPHScraper.git
+cd SPHScraper
 ```
 
 ### 2. Create a virtual environment
